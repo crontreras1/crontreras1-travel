@@ -1,2 +1,2 @@
-# crontreras1-travel
+# my-travel
 Página ficticia de viajes y responsive. 
