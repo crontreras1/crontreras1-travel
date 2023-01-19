@@ -521,15 +521,12 @@ video {
   width: 16rem;
 }
 
-.bg-red-200 {
+.bg-secondary {
   --tw-bg-opacity: 1;
-  background-color: rgb(254 202 202 / var(--tw-bg-opacity));
+  background-color: rgb(143 162 6 / var(--tw-bg-opacity));
 }
 
-.font-bold {
-  font-weight: 700;
-}
-
-.underline {
-  text-decoration-line: underline;
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
