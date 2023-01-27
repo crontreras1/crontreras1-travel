@@ -5,9 +5,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'sanFrancisco': "url('./public/img/san-francisco.jpg')",
+        'sanFrancisco': "url('../img/san-francisco.jpg')",
         'sanFranciscoDesktop': "url('../img/san-francisco-desktop.jpg')",
-        'yosemite': "url('../img/yosemite.jpg')",
+        'yosemite': "url('./public/img/yosemite.jpg')",
         'LA': "url('../img/la.jpg')",
         'seattle': "url('../img/seattle.jpg')",
         'newYork': "url('../img/new-york.jpg')",
