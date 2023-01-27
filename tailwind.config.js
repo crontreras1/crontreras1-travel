@@ -1,11 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ['./public/index.html', './src/**/*{html, js}'],
+  darkMode: 'class',
   theme: {
     extend: {
       backgroundImage: {
         'sanFrancisco': "url('./public/img/san-francisco.jpg')",
-        'sanFranciscoDesktop': "url('./public/img/san-francisco-desktop.jpg')",
+        'sanFranciscoDesktop': "url('../img/san-francisco-desktop.jpg')",
         'yosemite': "url('../img/yosemite.jpg')",
         'LA': "url('../img/la.jpg')",
         'seattle': "url('../img/seattle.jpg')",
@@ -35,5 +36,7 @@ module.exports = {
       }
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwind-scrollbar-hide')
+  ],
 }
