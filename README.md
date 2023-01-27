@@ -9,6 +9,7 @@ Página:
 
 ## Pantallazo 
 ![](./public/img/screenshot-my-travel.png)
+Dark Mode: 
 ![](./public/img/screenshot-my-travel-dark.png)
 
 ## Licencia
