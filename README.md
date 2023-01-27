@@ -1,5 +1,5 @@
 # my-travel
-Página ficticia de viajes y responsive. Hecha con Tailwindcss
+Página ficticia de viajes y responsive. Hecha con Tailwindcss. Dark mode aplicado. 
 
 ## Enlaces
 Página:
@@ -8,7 +8,9 @@ Página:
 - Tailwind
 
 ## Pantallazo 
-![]()
+![](./public/img/screenshot-my-travel.png)
+Dark Mode: 
+![](./public/img/screenshot-my-travel-dark.png)
 
 ## Licencia
 Licencia MIT
