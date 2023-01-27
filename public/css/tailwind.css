@@ -677,6 +677,14 @@ video {
   border-radius: 0.75rem;
 }
 
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.rounded-3xl {
+  border-radius: 1.5rem;
+}
+
 .rounded-t-lg {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
@@ -706,7 +714,7 @@ video {
 }
 
 .bg-yosemite {
-  background-image: url('./public/img/yosemite.jpg');
+  background-image: url('../img/yosemite.jpg');
 }
 
 .bg-iceland {
@@ -996,6 +1004,11 @@ video {
 .dark .dark\:bg-gray-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+}
+
+.dark .dark\:bg-gray-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(55 65 81 / var(--tw-bg-opacity));
 }
 
 .dark .dark\:text-white {
