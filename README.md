@@ -2,7 +2,7 @@
 Página ficticia de viajes y responsive. Hecha con Tailwindcss. Dark mode aplicado. 
 
 ## Enlaces
-Página:
+Página: [GitHub](https://crontreras1.github.io/my-travel/)
 
 ## Construido con
 - Tailwind
